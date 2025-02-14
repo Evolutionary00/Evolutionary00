@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Evolutionary00
 - 👀 I’m interested in Coding n stuff
-- 🌱 I’m currently learning Computer Science
+- 🌱 I’m currently learning Information Technology
 - 💞️ I’m looking to collaborate on _________
 - 📫 How to reach me: You can't
 - 😄 Pronouns: I'm a guy
